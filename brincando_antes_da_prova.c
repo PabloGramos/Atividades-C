@@ -5,7 +5,7 @@
 
 int main(){
 	int n,i,soma=1,total;
-	
+	$texto;
 	printf("Digite um numero: ");
 	scanf("%d",&n);
 	
